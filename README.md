@@ -62,7 +62,12 @@ I enjoy:
 
 ---
 
-### 🍷 Pour Decisions – Boutique Wine E-Commerce Site  
+### 🍷 Pour Decisions – Boutique Wine E-Commerce Site
+
+<p align="center">
+  <img src="assets/PourDecisions-project-header.png" alt="Project Header" width="100%">
+</p>
+
 **Type:** Group Project – MERN Stack  
 **Repo:** [Wine-E-commerce-site](https://github.com/231256leRouxFNF/Wine-E-commerce-site)
 
