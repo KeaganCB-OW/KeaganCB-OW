@@ -42,9 +42,14 @@ I enjoy:
 
 ## Portfolio Project Repositories
 
-> These are my three main DV200-style projects that show *how* I approach architecture, security, and UX – not just that I can make a page load.
+> These are my three main projects that show *how* I approach architecture, security, and UX – not just that I can make a page load.
 
 ### 🔵 Breakwaters – Recruitment Management Platform  
+
+<p align="center">
+  <img src="assets/Breakwaters-project-header.png" alt="Project Header" width="100%">
+</p>
+
 **Type:** Full-stack (React · Node/Express · MySQL)  
 **Repo:** [breakwaters-website](https://github.com/KeaganCB-OW/breakwaters-website)
 
@@ -54,19 +59,6 @@ I enjoy:
   - CV uploads stored in **Cloudflare R2**, tracked via MySQL  
   - Nodemailer email flows for status changes (client + company notifications)
 - **Why it matters:** Simulates a real agency workflow with secure data handling and admin tooling rather than just a simple CRUD demo.
-
----
-
-### 🐉 BeastBinder – D&D 5e Monster Companion  
-**Type:** Frontend SPA (React · Vite · D&D 5e API)  
-**Repo:** [Formative-One-BeastBinder](https://github.com/KeaganCB-OW/Formative-One-BeastBinder)
-
-- **What:** A companion tool for Dungeon Masters to **search, compare, and visualise** monsters.
-- **How:**  
-  - Live data from the **D&D 5e API**  
-  - Comparison and enhanced comparison pages using **Chart.js**  
-  - LocalStorage-backed “recent monsters” for quick reuse
-- **Why it matters:** Focused on **readability under pressure** – making complex stat blocks understandable at a glance during gameplay.
 
 ---
 
@@ -80,6 +72,24 @@ I enjoy:
   - Express + MongoDB backend, product management, and secure auth using **bcrypt**  
   - Custom “grid sequence” step at login for a more memorable second factor
 - **Why it matters:** Shows how our group combined standard e-commerce patterns with more playful, user-friendly security.
+
+---
+
+### 🐉 BeastBinder – D&D 5e Monster Companion 
+
+<p align="center">
+  <img src="assets/BeastBinder-project-header.png" alt="Project Header" width="100%">
+</p>
+
+**Type:** Frontend SPA (React · Vite · D&D 5e API)  
+**Repo:** [Formative-One-BeastBinder](https://github.com/KeaganCB-OW/Formative-One-BeastBinder)
+
+- **What:** A companion tool for Dungeon Masters to **search, compare, and visualise** monsters.
+- **How:**  
+  - Live data from the **D&D 5e API**  
+  - Comparison and enhanced comparison pages using **Chart.js**  
+  - LocalStorage-backed “recent monsters” for quick reuse
+- **Why it matters:** Focused on **readability under pressure** – making complex stat blocks understandable at a glance during gameplay.
 
 ---
 
